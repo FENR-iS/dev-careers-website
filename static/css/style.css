@@ -1,0 +1,20 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+font-size: 40px;
+color: rgb(100, 100, 100);
+}
+
+#banner {
+  height: 360px;
+  object-fit: cover;
+}
+
+h2 {
+  font-size: 32px;
+}
